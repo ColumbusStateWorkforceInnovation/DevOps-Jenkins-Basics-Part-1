@@ -11,7 +11,7 @@ Review the Dockerfile in your repo at docker/Dockerfile and related files in the
 
 What do you think are some advantages of running a dockerized Jenkins?  How would it differ to install Jenkins directly on a host?
 
-* Now, run `./run-jenkins.sh`.  
+* Now, run `sudo ./run-jenkins.sh`.  
 * Leave your terminal running and open a browser.
 * Navigate to `localhost:8080` to view Jenkins.  This is the screen you would use to manage Jenkins at a platform level.  We will explore this area briefly before building our first job.
 * Clicking "People" will show you all users on the Jenkins system. 
